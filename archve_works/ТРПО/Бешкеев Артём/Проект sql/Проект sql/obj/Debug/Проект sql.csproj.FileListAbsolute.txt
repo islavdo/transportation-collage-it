@@ -1,0 +1,11 @@
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\bin\Debug\Проект sql.exe.config
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\bin\Debug\Проект sql.exe
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\bin\Debug\Проект sql.pdb
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\obj\Debug\Проект sql.csprojAssemblyReference.cache
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\obj\Debug\Проект_sql.Form1.resources
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\obj\Debug\Проект_sql.Form2.resources
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\obj\Debug\Проект_sql.Properties.Resources.resources
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\obj\Debug\Проект sql.csproj.GenerateResource.cache
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\obj\Debug\Проект sql.csproj.CoreCompileInputs.cache
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\obj\Debug\Проект sql.exe
+\\srv-gis\Work\3834\ТРПО\Бешкеев Артём\Проект sql\Проект sql\obj\Debug\Проект sql.pdb

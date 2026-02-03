@@ -1,0 +1,18 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TRIGGER [Индикатор добавления]
+ON dbo.Студенты
+AFTER INSERT
+AS 
+
+BEGIN
+SET NOCOUNT ON;
+   PRINT 'Запись добавлена' 
+   
+END
+GO
+
+

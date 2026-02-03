@@ -1,0 +1,7 @@
+Sub ToggleShape()
+    ' Имя фигуры замените на ваше (можно найти в Excel: щёлкните правой кнопкой на фигуре > "Изменить имя")
+    ShapeName = "MyShape"  ' Замените на название вашей фигуры!
+    
+    ' Переключение видимости
+    ActiveSheet.Shapes(ShapeName).Visible = Not ActiveSheet.Shapes(ShapeName).Visible
+End Sub

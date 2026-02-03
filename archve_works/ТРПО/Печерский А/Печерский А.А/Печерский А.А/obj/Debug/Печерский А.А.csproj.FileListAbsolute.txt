@@ -1,0 +1,11 @@
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\bin\Debug\Печерский А.А.exe.config
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\bin\Debug\Печерский А.А.exe
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\bin\Debug\Печерский А.А.pdb
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\obj\Debug\Печерский А.А.csprojAssemblyReference.cache
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\obj\Debug\Печерский_А.А.Form1.resources
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\obj\Debug\Печерский_А.А.Form2.resources
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\obj\Debug\Печерский_А.А.Properties.Resources.resources
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\obj\Debug\Печерский А.А.csproj.GenerateResource.cache
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\obj\Debug\Печерский А.А.csproj.CoreCompileInputs.cache
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\obj\Debug\Печерский А.А.exe
+\\srv-gis\Work\3834\ТРПО\Печерский А\Печерский А.А\Печерский А.А\obj\Debug\Печерский А.А.pdb

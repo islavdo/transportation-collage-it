@@ -1,0 +1,14 @@
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\bin\Debug\шегрикян.exe.config
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\bin\Debug\шегрикян.exe
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\bin\Debug\шегрикян.pdb
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.csprojAssemblyReference.cache
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.Form1.resources
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.Form2.resources
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.Properties.Resources.resources
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.csproj.GenerateResource.cache
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.csproj.CoreCompileInputs.cache
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.exe
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.pdb
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.Form3.resources
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.Form4.resources
+Z:\3834\ТРПО\Шегрикян\шегрикян\шегрикян\obj\Debug\шегрикян.Form5.resources

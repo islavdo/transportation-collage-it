@@ -1,0 +1,16 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TRIGGER [Индикатор Удаления]
+   ON dbo.Студенты
+   AFTER DELETE
+AS 
+BEGIN
+     SET NOCOUNT ON;
+   PRINT 'Запись удалена' 
+END
+GO
+
+

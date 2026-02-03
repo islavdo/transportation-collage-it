@@ -1,0 +1,14 @@
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\bin\Debug\настя.exe.config
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\bin\Debug\настя.exe
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\bin\Debug\настя.pdb
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.csprojAssemblyReference.cache
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.Form1.resources
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.Form2.resources
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.Form3.resources
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.Form4.resources
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.Form5.resources
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.Properties.Resources.resources
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.csproj.GenerateResource.cache
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.csproj.CoreCompileInputs.cache
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.exe
+\\srv-gis\Work\3834\ТРПО\Сайтамирова Анастасия\настя\настя\obj\Debug\настя.pdb

@@ -1,0 +1,17 @@
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\bin\Debug\Database1.mdf
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\bin\Debug\Database1_log.ldf
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\bin\Debug\Первая Лаба.exe.config
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\bin\Debug\Первая Лаба.exe
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\bin\Debug\Первая Лаба.pdb
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая Лаба.csprojAssemblyReference.cache
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая_Лаба.Form1.resources
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая_Лаба.Form2.resources
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая_Лаба.Form3.resources
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая_Лаба.Form4.resources
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая_Лаба.Form5.resources
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая_Лаба.Form6.resources
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая_Лаба.Properties.Resources.resources
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая Лаба.csproj.GenerateResource.cache
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая Лаба.csproj.CoreCompileInputs.cache
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая Лаба.exe
+\\srv-gis\Work\3834\ТРПО\Неофидис\Первая Лаба\Первая Лаба\obj\Debug\Первая Лаба.pdb

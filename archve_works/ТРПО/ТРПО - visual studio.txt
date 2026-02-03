@@ -1,0 +1,68 @@
+// Form1 - Переходы форм
+
+private void button1_Click(object sender, EventArgs e) // Cпециальности
+{
+    Form2 form2 = new Form2();
+    form2.Show();
+
+}
+
+
+
+
+
+
+//Form5 - Оценки
+
+private void button1_Click(object sender, EventArgs e)
+{
+    средний_баллTextBox.Text = ((int.Parse(оценка_1TextBox.Text) + int.Parse(оценка_2TextBox.Text) + int.Parse(оценка_3TextBox.Text)) / 3).ToString();
+}
+
+
+
+
+
+
+
+//Form4 - Студенты
+
+private void button1_Click(object sender, EventArgs e) // Кнопка первая
+{
+    студентыBindingSource.MoveFirst();
+}
+
+private void button2_Click(object sender, EventArgs e) // Кнопка предыдущая
+{
+    студентыBindingSource.MovePrevious();
+}
+
+private void button4_Click(object sender, EventArgs e) // Кнопка последняя
+{
+    студентыBindingSource.MoveLast();
+}
+
+private void button5_Click(object sender, EventArgs e) // Кнопка следующая
+{
+    студентыBindingSource.MoveNext();
+}
+
+private void button3_Click(object sender, EventArgs e) // Кнопка новая
+{
+    студентыBindingSource.AddNew();
+}
+
+private void button6_Click(object sender, EventArgs e) // Кнопка удалить
+{
+    студентыBindingSource.RemoveCurrent();
+    this.tableAdapterManager.UpdateAll(this.DataSet); //Поменять на свой DataSet
+}
+
+private void button7_Click(object sender, EventArgs e) // Кнопка сохранить
+{
+    this.Validate();
+
+    this.студентыBindingSource.EndEdit();
+    this.tableAdapterManager.UpdateAll(this.DataSet); //Поменять на свой DataSet
+    MessageBox.Show("Данные Сохранены");
+}

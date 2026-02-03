@@ -1,0 +1,13 @@
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\bin\Debug\ДианаМартиросьян.exe.config
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\bin\Debug\ДианаМартиросьян.exe
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\bin\Debug\ДианаМартиросьян.pdb
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.csprojAssemblyReference.cache
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.Form1.resources
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.Form2.resources
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.Properties.Resources.resources
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.csproj.GenerateResource.cache
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.csproj.CoreCompileInputs.cache
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.exe
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.pdb
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.Form3.resources
+\\srv-gis\Work\3834\ТРПО\Мартиросьян Диана\ДианаМартиросьян\obj\Debug\ДианаМартиросьян.Form4.resources
